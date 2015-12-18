@@ -31,29 +31,26 @@ For more detail, please refer to our papers listed in the bottom of this documen
 
 
 ## References:
-The original paper is: 
-
+The original paper is: <br>
 [**Pre-print**](http://campar.in.tum.de/pub/itoh2015vr/itoh2015vr.pdf), 
-[**Talk-slides**](http://campar.in.tum.de/pub/itoh2015vr/itoh2015vr.slides.pdf) 
+[**Talk-slides**](http://campar.in.tum.de/pub/itoh2015vr/itoh2015vr.slides.pdf) <br>
 ```latex
 @article{DBLP:journals/tvcg/ItohK15,
-    author = {Yuta Itoh and Gudrun Klinker},
-    title = {Light-Field Correction for Spatial Calibration of Optical See-Through Head-Mounted Displays},
-    year = {2015},
-    month = {April},
-    journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings Virtual Reality 2015)},
-    volume = {21},
-    number = {4},
-    pages = {471--480},
-    doi = {http://doi.ieeecomputersociety.org/10.1109/TVCG.2015.2391859},
+   author = {Yuta Itoh and Gudrun Klinker},
+   title = {Light-Field Correction for Spatial Calibration of Optical See-Through Head-Mounted Displays},
+   year = {2015},
+   month = {April},
+   journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings Virtual Reality 2015)},
+   volume = {21},
+   number = {4},
+   pages = {471--480},
+   doi = {http://doi.ieeecomputersociety.org/10.1109/TVCG.2015.2391859},
 }
 ```
 
-
-Follow-up paper which extends this calibration method to the image distortions (not included in the current code):
-
+Follow-up paper which extends this calibration method to the image distortions (not included in the current code): <br>
 [**Pre-print**](http://campar.in.tum.de/pub/itoh2015ismar2/itoh2015ismar2.pdf), 
-[**Talk-slides**](http://campar.in.tum.de/pub/itoh2015ismar2/itoh2015ismar2.slides.pdf) 
+[**Talk-slides**](http://campar.in.tum.de/pub/itoh2015ismar2/itoh2015ismar2.slides.pdf) <br>
 ```latex
 @InProceedings{DBLP:conf/ismar/ItohK15,
   Title                    = {{Simultaneous Direct and Augmented View Distortion Calibration of Optical See-Through Head-Mounted Displays}},
