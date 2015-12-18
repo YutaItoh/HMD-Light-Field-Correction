@@ -2,6 +2,7 @@
 
 This toolbox provides a non-parametric distortion correction method for **Optical See-Through** Head-Mounted Display (OST-HMDs).
 
+## How to Use it
 On MATLAB, You can simply run our evaluation code as :
 ```Matlab
 >> main_undistorty_optics
@@ -12,7 +13,7 @@ If the program runs successfully, you would see an estimation result of an optic
 <img src="https://cloud.githubusercontent.com/assets/7195124/11901820/fa866912-a5ad-11e5-8c24-f0db24561fb8.jpg" width="350"/>
 
 
-#Problem Background
+## Problem Background
 
 When we wear an OST-HMD, optical aberration from the display's optics distorts our field of view: 
 
