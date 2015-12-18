@@ -43,8 +43,8 @@ The original paper is:
 
 
 Follow-up paper which extends the calibration method to the image distortions:
-[Pre-print](http://campar.in.tum.de/pub/itoh2015ismar2/itoh2015ismar2.slides.pdf), 
-[Talk-slides](http://campar.in.tum.de/pub/itoh2015ismar2/itoh2015ismar2.pdff) 
+[Pre-print](http://campar.in.tum.de/pub/itoh2015ismar2/itoh2015ismar2.pdf), 
+[Talk-slides](http://campar.in.tum.de/pub/itoh2015ismar2/itoh2015ismar2.slides.pdf) 
 ```latex
 @InProceedings{DBLP:conf/ismar/ItohK15,
   Title                    = {{Simultaneous Direct and Augmented View Distortion Calibration of Optical See-Through Head-Mounted Displays}},
