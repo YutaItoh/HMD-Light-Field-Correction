@@ -7,7 +7,7 @@ On MATLAB, You can simply run our evaluation code as :
 >> main_undistorty_optics
 ```
 (We tested the code on MATLAB 2015b with Statistics Toolbox.)
-If the program runs successfully, you would see an estimation result of an optical distortion leanred from a sample dataset:
+If the program runs successfully, you would see an estimation result of an optical distortion learned from a sample dataset:
 
 <img src="https://cloud.githubusercontent.com/assets/7195124/11901820/fa866912-a5ad-11e5-8c24-f0db24561fb8.jpg" width="350"/>
 
