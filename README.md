@@ -32,6 +32,7 @@ For more detail, please refer to our papers listed in the bottom of this documen
 
 ## References:
 The original paper is: 
+
 [**Pre-print**](http://campar.in.tum.de/pub/itoh2015vr/itoh2015vr.pdf), 
 [**Talk-slides**](http://campar.in.tum.de/pub/itoh2015vr/itoh2015vr.slides.pdf) 
 ```latex
@@ -50,6 +51,7 @@ The original paper is:
 
 
 Follow-up paper which extends this calibration method to the image distortions (not included in the current code):
+
 [**Pre-print**](http://campar.in.tum.de/pub/itoh2015ismar2/itoh2015ismar2.pdf), 
 [**Talk-slides**](http://campar.in.tum.de/pub/itoh2015ismar2/itoh2015ismar2.slides.pdf) 
 ```latex
