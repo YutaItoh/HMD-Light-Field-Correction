@@ -8,16 +8,25 @@ When we wear an OST-HMD, the optical aberration from the display optics distorts
  
 This results in a misaligned Augmented Reality rendering, and our method aims to correct it:
 
-<img src="https://cloud.githubusercontent.com/assets/7195124/11900867/96c26cb4-a5a8-11e5-9269-322140308ad0.jpg" width="600"/>
+<img src="https://cloud.githubusercontent.com/assets/7195124/11900867/96c26cb4-a5a8-11e5-9269-322140308ad0.jpg" width="500"/>
 
 Our method is based on geometrical optics. We measure light rays in the scene trace how an optics of the display distorts the ray when we place an OST-HMD in front of the view point. By correcting many of these correspondences, we learn a mapping between the original light rays to the distorted. In out code, we achieve this by using a Kernel regression.
 
 <img src="https://cloud.githubusercontent.com/assets/7195124/11900960/2f3cd344-a5a9-11e5-9fba-493ee54ec5b0.jpg" width="600"/>
 
-For more detail, please refere to our papers in the following.
+For more detail, please refer to our papers listed in the bottom of this document .
+
+## How to use:
+```Matlab
+>> main_undistorty_optics
+```
+We tested the code on MATLAB 2015b with Statistics Toolbox.
+
 
 ## Reference:
-The original paper is
+The original paper is: 
+[Pre-print](http://campar.in.tum.de/pub/itoh2015vr/itoh2015vr.pdf), 
+[Talk-slides](http://campar.in.tum.de/pub/itoh2015vr/itoh2015vr.slides.pdf) 
 ```latex
 @article{DBLP:journals/tvcg/ItohK15,
     author = {Yuta Itoh and Gudrun Klinker},
@@ -31,7 +40,11 @@ The original paper is
     doi = {http://doi.ieeecomputersociety.org/10.1109/TVCG.2015.2391859},
 }
 ```
-Follow-up paper which extends the calibration method to the image distortions
+
+
+Follow-up paper which extends the calibration method to the image distortions:
+[Pre-print](http://campar.in.tum.de/pub/itoh2015ismar2/itoh2015ismar2.slides.pdf), 
+[Talk-slides](http://campar.in.tum.de/pub/itoh2015ismar2/itoh2015ismar2.pdff) 
 ```latex
 @InProceedings{DBLP:conf/ismar/ItohK15,
   Title                    = {{Simultaneous Direct and Augmented View Distortion Calibration of Optical See-Through Head-Mounted Displays}},
