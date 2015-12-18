@@ -1,6 +1,6 @@
 #HMD Distortion Correction Toolbox for MATLAB
 
-This toolbox provides a non-parametric distortion correction method for Optical See-Through Head-Mounted Display (OST-HMDs).
+This toolbox provides a non-parametric distortion correction method for **Optical See-Through** Head-Mounted Display (OST-HMDs).
 
 On MATLAB, You can simply run our evaluation code as :
 ```Matlab
@@ -14,7 +14,7 @@ If the program runs successfully, you would see an estimation result of an optic
 
 #Problem Background
 
-When we wear an OST-HMD, the optical aberration from the display optics distorts our field of view: 
+When we wear an OST-HMD, optical aberration from the display's optics distorts our field of view: 
 
 <img src="https://cloud.githubusercontent.com/assets/7195124/11900674/acf0eb24-a5a7-11e5-9452-b062d1366a3c.jpg" width="800"/>
  
