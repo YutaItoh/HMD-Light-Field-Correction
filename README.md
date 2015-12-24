@@ -56,7 +56,7 @@ Follow-up paper which extends this calibration method to the image distortions (
 ```latex
 @InProceedings{DBLP:conf/ismar/ItohK15,
   Title                    = {{Simultaneous Direct and Augmented View Distortion Calibration of Optical See-Through Head-Mounted Displays}},
-  Author                   = {Yuta Itoh and Maksym Dzitsiuk and Toshiyuki Amano and Gudrun Klinker},
+  Author                   = {Yuta Itoh and Gudrun Klinker},
   Booktitle                = {14th {IEEE} International Symposium on Mixed and Augmented Reality, {ISMAR} 2015, FUkuoka, Japan, Sep. 29 - Oct. 3, 2015},
   Year                     = {2015},
   Pages                    = {43--48},
